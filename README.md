@@ -1,4 +1,5 @@
-# lab-02
-student name - Shivalikaa Govind. 
+# CMPUT 301: Lab 2
 
-student ID - 1802294
+## Student Details
+- **Full Name:** Shivalikaa Govind
+- **CCID:** sgovind
